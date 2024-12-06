@@ -1,5 +1,5 @@
 # YouTube Comment Sentiment Analyzer
-[Try it out](https://youtube-comments-sentiment-analysis.streamlit.app/){:target="_blank"}
+<a href="https://youtube-comments-sentiment-analysis.streamlit.app/" target="_blank">Try it out</a>
 
 ## Description
 
