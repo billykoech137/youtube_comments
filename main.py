@@ -120,7 +120,7 @@ st.markdown(
 
 
 def main():
-    load_dotenv('.gitignore/.env')
+    load_dotenv()
     api_key = os.getenv("YT_API")
     # Authenticate with the API
     youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=api_key)
